@@ -13,7 +13,7 @@ def fetch_data_from_api():
     else:
         raise Exception("Failed to fetch data from API")
 
-def main():
+def user():
     try:
         testuser, testpassword, country = fetch_data_from_api()
         print(f"Username: {testuser}")
@@ -21,5 +21,7 @@ def main():
         print(f"Country: {country}")
     except Exception as e:
         print(str(e))
+
+        
 if __name__ == "__main__":
-    main()    
+    user()    
