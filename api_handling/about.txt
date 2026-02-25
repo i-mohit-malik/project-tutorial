@@ -1,0 +1,6 @@
+Here We have described the steps to fetch apis:
+
+1. find a Api request URL
+2. copy reponse body and put in a json formatter. "https://jsonformatter.org/"
+3. Decide the desired output from the tree structure.
+4. Write the code as shown in the exaples in this pack.
