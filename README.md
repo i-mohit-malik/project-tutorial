@@ -1,3 +1,1 @@
 # project-tutorial
-#mohit
-#harsh
